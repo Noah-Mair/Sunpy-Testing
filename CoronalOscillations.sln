@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CoronalOscillations", "CoronalOscillations.pyproj", "{C11EA522-7EA9-4C56-AEEF-CEB629C48046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C11EA522-7EA9-4C56-AEEF-CEB629C48046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11EA522-7EA9-4C56-AEEF-CEB629C48046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02B26050-8B38-4464-A5C9-0CCE788029CB}
+	EndGlobalSection
+EndGlobal
